@@ -1,3 +1,18 @@
-body{
-    color:red;
+header{
+    height: 250px;
+    outline: 1px solid red;
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Various_sushi%2C_beautiful_October_night_at_midnight.jpg/640px-Various_sushi%2C_beautiful_October_night_at_midnight.jpg);
+    background-size: cover;
+    background-position: center center;
+
+}
+header h1{
+    margin: 0;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+header h2{
+    margin: 0;
+    padding-left: 50px;
+    padding-top: 20px;
 }
